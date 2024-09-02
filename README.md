@@ -1,1 +1,2 @@
-# conway-s-game-of-life
+# Conway game of life in assembly x86
+

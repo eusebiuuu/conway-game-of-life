@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include <stdio.h>
 using namespace std;
 int const D = 25, L = 8;
 int mat[D][D], oldM[D][D];
